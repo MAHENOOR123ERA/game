@@ -1,0 +1,33 @@
+ *{
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+
+
+ .container{
+    background-image: url(MHWLac7a.gif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+ }
+
+ .heavy{
+    height: 50vh;
+    position: absolute;
+    bottom: 0;
+ }
+
+
+ .hanzo{
+   height: 50vh;
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+ }
+
+ 
